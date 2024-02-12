@@ -60,7 +60,7 @@ function ChatSide() {
   // * Enter button to send message
   useEffect(() => {
     const listener = (e) => {
-      if (e.code == "Enter") { Send() };
+      if (e.code === "Enter") { Send() };
     };
 
     document.addEventListener("keydown", listener);

@@ -207,7 +207,7 @@ import {
       sent: false,
     },
     {
-      msg: "https://github.com/AlejoG10",
+      msg: "https://hammad112.github.io/Whatsaap_Clone/",
       isLink: true,
       time: "11:36 am",
       sent: false,
@@ -223,7 +223,7 @@ import {
       sent: false,
     },
     {
-      msg: "https://www.youtube.com/channel/UCLqXQLK6zKZg0trhanjAkkQ",
+      msg: "https://hammad112.github.io/Whatsaap_Clone/",
       isLink: true,
       time: "11:55 am",
       sent: false,
