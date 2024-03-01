@@ -8,7 +8,7 @@ This is a WhatsApp clone built for desktop using React and Tailwind CSS. It mimi
 
 ## Demo
 
-https://hammad112.github.io/Whatsaap_Clone/
+https://hammad112.github.io/Whatsaap/
 
 
 ## Features
