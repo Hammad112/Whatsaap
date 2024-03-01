@@ -16,21 +16,21 @@ import {
   export const chatsData = [
     {
       pp1: cc8,
-      contact: "Coding Spot",
+      contact: "Guru",
       msg: "Awesome, thank you!",
       time: "1:15 pm",
       unreadMsgs: null,
     },
     {
       pp1: cc1,
-      contact: "Tom",
+      contact: "Shumaila",
       msg: "Coding Spot is fire! 🔥",
       time: "12:15 pm",
       unreadMsgs: 2,
     },
     {
       pp1: cc2,
-      contact: "Girlfriend ❤️",
+      contact: "Sister ",
       msg: "Miss you, call you later!",
       time: "11:11 am",
       unreadMsgs: 4,
@@ -65,28 +65,28 @@ import {
     },
     {
       pp1: cc6,
-      contact: "Johnny",
+      contact: "Sher Khan",
       msg: "hahhahhaha lol 😂😂😂",
       time: "10:18 am",
       unreadMsgs: null,
     },
     {
       pp1: cc7,
-      contact: "Boss",
+      contact: "Rommate",
       msg: "Meeting in 2 hours.",
       time: "10:02 am",
       unreadMsgs: null,
     },
     {
       pp1: cc8,
-      contact: "Sarah",
+      contact: "ali",
       msg: "The test was sooo hard 😓",
       time: "9:47 am",
       unreadMsgs: 3,
     },
     {
       pp1: cc5,
-      contact: "Doc 🏥",
+      contact: "Selection Center 🏥",
       msg: "Hey doc, waitng for the results",
       time: "9:41 am",
       unreadMsgs: null,
@@ -114,56 +114,56 @@ import {
     },
     {
       pp1: cc7,
-      contact: "Test",
+      contact: "aliza",
       msg: "Test chat ...",
       time: "yesterday",
       unreadMsgs: null,
     },
     {
       pp1: IoPaperPlane,
-      contact: "Test",
+      contact: "shabana",
       msg: "Test chat ...",
       time: "yesterday",
       unreadMsgs: 7,
     },
     {
       pp1: cc1,
-      contact: "Test",
+      contact: "Aneez",
       msg: "Test chat ...",
       time: "yesterday",
       unreadMsgs: null,
     },
     {
       pp1: cc8,
-      contact: "Test",
+      contact: "ahsan",
       msg: "Test chat ...",
       time: "yesterday",
       unreadMsgs: 7,
     },
     {
       pp1: cc6,
-      contact: "Test",
+      contact: "Hassan",
       msg: "Test chat ...",
       time: "yesterday",
       unreadMsgs: null,
     },
     {
       pp1: cc10,
-      contact: "Test",
+      contact: "Ali",
       msg: "Test chat ...",
       time: "yesterday",
       unreadMsgs: 7,
     },
     {
       pp1: pp,
-      contact: "Test",
+      contact: "Malaika",
       msg: "Test chat ...",
       time: "yesterday",
       unreadMsgs: null,
     },
     {
       pp1: cc9,
-      contact: "Test",
+      contact: "Minahil",
       msg: "Test chat ...",
       time: "yesterday",
       unreadMsgs: 7,
@@ -207,7 +207,7 @@ import {
       sent: false,
     },
     {
-      msg: "https://hammad112.github.io/Whatsaap_Clone/",
+      msg: "https://www.linkedin.com/in/hammad-nasir-6a671b1ba/",
       isLink: true,
       time: "11:36 am",
       sent: false,
@@ -223,7 +223,7 @@ import {
       sent: false,
     },
     {
-      msg: "https://hammad112.github.io/Whatsaap_Clone/",
+      msg: "https://hammad112.github.com",
       isLink: true,
       time: "11:55 am",
       sent: false,
@@ -248,4 +248,53 @@ import {
       time: "1:15 pm",
       sent: false,
     },
-  ];
+];
+  
+
+export const Arch = [
+  {
+    pp1: cc8,
+    contact: "Muhammad Adil",
+    msg: "Awesome, thank you!",
+    time: "1:15 pm",
+    unreadMsgs: null,
+  },
+  {
+    pp1: cc1,
+    contact: "Ali",
+    msg: "Coding Spot is fire! 🔥",
+    time: "12:15 pm",
+    unreadMsgs: 2,
+  },
+ 
+ 
+  {
+    pp1: cc10,
+    contact: "King Elizabeth",
+    msg: "Forgot to send the task 😭",
+    time: "yesterday",
+    unreadMsgs: null,
+  },
+  
+  {
+    pp1: cc8,
+    contact: "Maaz",
+    msg: "Test chat ...",
+    time: "yesterday",
+    unreadMsgs: 7,
+  },
+  {
+    pp1: cc6,
+    contact: "Saim",
+    msg: "Test chat ...",
+    time: "yesterday",
+    unreadMsgs: null,
+  },
+  
+];
+export const profileData = [{
+  name: 'Hammad Nasir',
+  about: 'Hello',
+  phone:'+92 34-8500674'
+},
+];

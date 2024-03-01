@@ -12,14 +12,15 @@ import Chats from './Chats';
 function LeftMenu() {
   
     const [filters, setFilters] = useState(false);
+    const[chats,setChats]=useState(true);
    
-
+  
     return (
         
         <div className='flex flex-col border-r border-[#202d33] w-100 h-screen'>
             {/* {nav} */}
             <div className='flex justify-between items-center bg-[#202d33] h-[60px] p-2'>
-                 <img className="rounded-full w-[45px] h-[45px] mr-5 " src={pp} alt="profile_Picture" />
+                 <img className="rounded-full w-[45px] h-[45px] mr-5 cursor-pointer" src={pp} alt="profile_Picture" onClick={()=>setChats(!chats)} />
                  <div className='flex justify-between w-175px'>
                      <Buttons icon={<IoMdPeople/>} />
                      <Buttons icon={<TbCircleDashed />} />
@@ -41,7 +42,7 @@ function LeftMenu() {
                  </button>
             </div>
             {/* chats */}
-            <Chats  filter={filters} /> 
+            <Chats filter={filters} profile={chats } /> 
               </div>
     );
   }

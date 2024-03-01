@@ -24,7 +24,7 @@ function Message({ msg, time, img,isLink, sent }) {
       )  : (
         // Text (link/normal) message
         <div
-          className="flex justify-between items-end max-w-[410px] p-2"
+          className="flex justify-between items-end  min-w-[30px]  max-w-[410px] pt-2 px-2"
           style={{ wordBreak: "break-word" }}
         >
           {/* Link */}

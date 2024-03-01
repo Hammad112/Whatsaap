@@ -92,7 +92,7 @@ function ChatSide() {
             alt="profile_Picture" />
           
           <div className= 'flex flex-col'>
-            <span className="text-white font-medium ">Coding Soft</span>
+            <span className="text-white font-medium ">Guru</span>
             <span className="text-[#8796a1] text-xs">online</span>
           </div>
         </div>
