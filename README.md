@@ -24,7 +24,7 @@ https://hammad112.github.io/Whatsaap/
 ### Clone the repository to your local machine:
 
 ```bash
- git clone https://github.com/your-username/whatsapp-clone-desktop.git
+ git clone https://github.com/your-username/whatsapp.git
 ```
 ### Navigate into the project directory:
 cd whatsapp-clone-desktop
